@@ -1,0 +1,17 @@
+[
+  {
+    "id": "1",
+    "name": "Washington Elementary",
+    "district": "Central District"
+  },
+  {
+    "id": "2",
+    "name": "Lincoln Middle School",
+    "district": "Central District"
+  },
+  {
+    "id": "3",
+    "name": "Roosevelt High School",
+    "district": "Central District"
+  }
+]

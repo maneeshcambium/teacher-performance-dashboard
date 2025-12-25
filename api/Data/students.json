@@ -1,0 +1,72 @@
+[
+  {
+    "id": "1",
+    "firstName": "Emma",
+    "lastName": "Johnson",
+    "studentId": "S001",
+    "grade": "5th"
+  },
+  {
+    "id": "2",
+    "firstName": "Liam",
+    "lastName": "Williams",
+    "studentId": "S002",
+    "grade": "5th"
+  },
+  {
+    "id": "3",
+    "firstName": "Olivia",
+    "lastName": "Brown",
+    "studentId": "S003",
+    "grade": "5th"
+  },
+  {
+    "id": "4",
+    "firstName": "Noah",
+    "lastName": "Jones",
+    "studentId": "S004",
+    "grade": "5th"
+  },
+  {
+    "id": "5",
+    "firstName": "Ava",
+    "lastName": "Garcia",
+    "studentId": "S005",
+    "grade": "5th"
+  },
+  {
+    "id": "6",
+    "firstName": "Ethan",
+    "lastName": "Martinez",
+    "studentId": "S006",
+    "grade": "5th"
+  },
+  {
+    "id": "7",
+    "firstName": "Sophia",
+    "lastName": "Davis",
+    "studentId": "S007",
+    "grade": "5th"
+  },
+  {
+    "id": "8",
+    "firstName": "Mason",
+    "lastName": "Rodriguez",
+    "studentId": "S008",
+    "grade": "5th"
+  },
+  {
+    "id": "9",
+    "firstName": "Isabella",
+    "lastName": "Wilson",
+    "studentId": "S009",
+    "grade": "5th"
+  },
+  {
+    "id": "10",
+    "firstName": "Lucas",
+    "lastName": "Anderson",
+    "studentId": "S010",
+    "grade": "5th"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "name": "Math Assessment Q1",
+    "subject": "Math",
+    "maxScore": 100
+  },
+  {
+    "id": "2",
+    "name": "ELA Reading Comprehension",
+    "subject": "ELA",
+    "maxScore": 100
+  },
+  {
+    "id": "3",
+    "name": "Science Midterm",
+    "subject": "Science",
+    "maxScore": 100
+  },
+  {
+    "id": "4",
+    "name": "Social Studies Final",
+    "subject": "Social",
+    "maxScore": 100
+  }
+]

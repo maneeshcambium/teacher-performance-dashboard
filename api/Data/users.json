@@ -1,0 +1,18 @@
+[
+  {
+    "id": "1",
+    "username": "teacher",
+    "passwordHash": "password",
+    "name": "John Smith",
+    "email": "john.smith@school.edu",
+    "role": "teacher"
+  },
+  {
+    "id": "2",
+    "username": "admin",
+    "passwordHash": "admin123",
+    "name": "Jane Doe",
+    "email": "jane.doe@school.edu",
+    "role": "admin"
+  }
+]

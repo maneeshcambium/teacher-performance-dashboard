@@ -1,0 +1,30 @@
+[
+  {
+    "year": "2021-2022",
+    "subject": "Math",
+    "classAverage": 78.5,
+    "schoolAverage": 76.2,
+    "districtAverage": 74.8
+  },
+  {
+    "year": "2022-2023",
+    "subject": "Math",
+    "classAverage": 81.2,
+    "schoolAverage": 78.9,
+    "districtAverage": 76.5
+  },
+  {
+    "year": "2023-2024",
+    "subject": "Math",
+    "classAverage": 82.7,
+    "schoolAverage": 80.1,
+    "districtAverage": 78.2
+  },
+  {
+    "year": "2024-2025",
+    "subject": "Math",
+    "classAverage": 84.9,
+    "schoolAverage": 81.5,
+    "districtAverage": 79.3
+  }
+]
